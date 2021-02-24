@@ -1,0 +1,23 @@
+.leaflet-container {
+  width: 50%;
+  height: 100vh;
+}
+.flexbox-item {
+  width: 100%;
+  margin: 10px;
+  border: 3px solid #333;
+}
+.flexbox-item-2 {
+  width: 200px;
+  margin: 10px;
+  border: 3px solid #333;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.container-2 {
+  display: flex;
+  flex-direction: column;
+}
